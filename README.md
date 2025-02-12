@@ -1,14 +1,13 @@
 # Instagram Post Downloader
 
-A desktop application that allows downloading Instagram posts from public profiles using a graphical user interface.
+An application that allows downloading Instagram posts from public or private (if you follow them) profiles using a very shitty graphical user interface.
 
 ## Features
 - Download photos and videos from Instagram posts
 - Simple and intuitive GUI
 - Two-factor authentication support
 - Configurable number of posts to download
-- Progress tracking
-- Account safety warnings
+- Progress tracking (ish) 
 
 ## Installation
 
