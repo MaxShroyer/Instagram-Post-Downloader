@@ -1,6 +1,6 @@
 # Instagram Post Downloader
 
-#NOTE: 📝 You will most likely be rate-limited to 12 posts. This is attached to the individual device and will present itself as the error 
+# NOTE: 📝 You will most likely be rate-limited to 12 posts. This is attached to the individual device and will present itself as the error 
 ```
 JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query
 ```
