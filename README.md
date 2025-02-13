@@ -1,5 +1,11 @@
 # Instagram Post Downloader
 
+#📝 You will most likely be rate-limited to 12 posts. This is attached to the individual device and will present itself as the error 
+```
+JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query
+```
+
+JSON Query to graphql/query: 401 Unauthorized - "fail" status, message "Please wait a few minutes before you try again." when accessing https://www.instagram.com/graphql/query
 An application that allows downloading Instagram posts from public or private (if you follow them) profiles using a very shitty graphical user interface.
 
 ## Features
